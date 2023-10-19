@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-With-Python
-In this project, i conducted an exploratory data analysis on Netflix Movie and TV Show dataset to find insights
+## Exploratory Data Analysis With Python
+In this project, I conducted exploratory data analysis on the Netflix Movie and TV Show dataset to find insights
